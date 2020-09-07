@@ -42,3 +42,6 @@ _Have another more specific idea? You may want to check out our vibrant collecti
     gatsby build
     gatsby serve
     ```
+    
+4.  **What, why, who, how, when, where!**
+
